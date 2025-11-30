@@ -1,0 +1,5 @@
+# Archive files
+*.zip
+
+# Presentation files
+Presentation*.pdf
