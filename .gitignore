@@ -2,4 +2,5 @@
 *.zip
 
 # Presentation files
-Presentation*.pdf
+*.ppt
+*.pptx
